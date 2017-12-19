@@ -12,3 +12,5 @@ Second GUI allows for an administrator to add/delete or make changes to records 
 ![screenshot 69](https://user-images.githubusercontent.com/34503137/34175097-e8b62492-e503-11e7-970f-87fdf40abf7d.png)
 ## Details about the program contained in help menu.
 ![screenshot 70](https://user-images.githubusercontent.com/34503137/34175218-656a2a9c-e504-11e7-9f33-e91b4a52f230.png)
+## Search results in tabular format, Returns all matched content across tables.
+![screenshot 73](https://user-images.githubusercontent.com/34503137/34175357-e265b9c6-e504-11e7-873d-51547c05902d.png)
