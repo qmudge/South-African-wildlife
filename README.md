@@ -16,3 +16,5 @@ Second GUI allows for an administrator to add/delete or make changes to records 
 ![screenshot 73](https://user-images.githubusercontent.com/34503137/34175357-e265b9c6-e504-11e7-873d-51547c05902d.png)
 ## Login required to access administrator control gui. 
 ![screenshot 74](https://user-images.githubusercontent.com/34503137/34175526-5b37dfb4-e505-11e7-8885-5cb352415d8b.png)
+## Administrator gui, Added a new species to database.
+![screenshot 75](https://user-images.githubusercontent.com/34503137/34175624-c4f6e238-e505-11e7-803f-b2c911aced3e.png)
