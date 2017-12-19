@@ -14,3 +14,5 @@ Second GUI allows for an administrator to add/delete or make changes to records 
 ![screenshot 70](https://user-images.githubusercontent.com/34503137/34175218-656a2a9c-e504-11e7-9f33-e91b4a52f230.png)
 ## Search results in tabular format, Returns all matched content across tables.
 ![screenshot 73](https://user-images.githubusercontent.com/34503137/34175357-e265b9c6-e504-11e7-873d-51547c05902d.png)
+## Login required to access administrator control gui. 
+![screenshot 74](https://user-images.githubusercontent.com/34503137/34175526-5b37dfb4-e505-11e7-8885-5cb352415d8b.png)
