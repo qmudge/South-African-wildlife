@@ -28,3 +28,5 @@ Second GUI allows for an administrator to add/delete or make changes to records 
 ![screenshot 80](https://user-images.githubusercontent.com/34503137/34176998-b15dcb7e-e50a-11e7-92e9-e9d81de20022.png)
 ## Open server control gui to select shutdown.
 ![screenshot 81](https://user-images.githubusercontent.com/34503137/34177118-0f200272-e50b-11e7-9eba-1af99939e578.png)
+## Check for access authorization.
+![screenshot 82](https://user-images.githubusercontent.com/34503137/34177167-5520ceb4-e50b-11e7-840c-d8b68de0d29c.png)
