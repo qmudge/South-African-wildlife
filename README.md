@@ -26,3 +26,5 @@ Second GUI allows for an administrator to add/delete or make changes to records 
 ![screenshot 78](https://user-images.githubusercontent.com/34503137/34176672-7f45e21c-e509-11e7-9229-e0e439234737.png)
 ## Exit the program through menu option.
 ![screenshot 80](https://user-images.githubusercontent.com/34503137/34176998-b15dcb7e-e50a-11e7-92e9-e9d81de20022.png)
+## Open server control gui to select shutdown.
+![screenshot 81](https://user-images.githubusercontent.com/34503137/34177118-0f200272-e50b-11e7-9eba-1af99939e578.png)
