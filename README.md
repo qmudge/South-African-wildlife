@@ -8,3 +8,5 @@ Second GUI allows for an administrator to add/delete or make changes to records 
 ![screenshot 66](https://user-images.githubusercontent.com/34503137/34174258-0253c84e-e501-11e7-85bd-343070be27a8.png)
 ## Server running.
 ![screenshot 67](https://user-images.githubusercontent.com/34503137/34174369-4e14145a-e501-11e7-9d57-d540f92dec31.png)
+## Main gui, with access and help menu.
+![screenshot 69](https://user-images.githubusercontent.com/34503137/34175097-e8b62492-e503-11e7-970f-87fdf40abf7d.png)
