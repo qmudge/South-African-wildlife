@@ -24,3 +24,5 @@ Second GUI allows for an administrator to add/delete or make changes to records 
 ![screenshot 77](https://user-images.githubusercontent.com/34503137/34176542-eeff9b26-e508-11e7-81f5-e0af65501a1c.png)
 ## Search for new added record.
 ![screenshot 78](https://user-images.githubusercontent.com/34503137/34176672-7f45e21c-e509-11e7-9229-e0e439234737.png)
+## Exit the program through menu option.
+![screenshot 80](https://user-images.githubusercontent.com/34503137/34176998-b15dcb7e-e50a-11e7-92e9-e9d81de20022.png)
