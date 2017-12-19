@@ -20,3 +20,5 @@ Second GUI allows for an administrator to add/delete or make changes to records 
 ![screenshot 75](https://user-images.githubusercontent.com/34503137/34175624-c4f6e238-e505-11e7-803f-b2c911aced3e.png)
 ## New animal record added to database.
 ![screenshot 76](https://user-images.githubusercontent.com/34503137/34175741-29821c9a-e506-11e7-8568-2622bbba1d4f.png)
+## Attempt to delete an animal record. Unsuccessful due to no such record existing in the database.
+![screenshot 77](https://user-images.githubusercontent.com/34503137/34176542-eeff9b26-e508-11e7-81f5-e0af65501a1c.png)
