@@ -18,3 +18,5 @@ Second GUI allows for an administrator to add/delete or make changes to records 
 ![screenshot 74](https://user-images.githubusercontent.com/34503137/34175526-5b37dfb4-e505-11e7-8885-5cb352415d8b.png)
 ## Administrator gui, Added a new species to database.
 ![screenshot 75](https://user-images.githubusercontent.com/34503137/34175624-c4f6e238-e505-11e7-803f-b2c911aced3e.png)
+## New animal record added to database.
+![screenshot 76](https://user-images.githubusercontent.com/34503137/34175741-29821c9a-e506-11e7-8568-2622bbba1d4f.png)
